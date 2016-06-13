@@ -1,0 +1,6 @@
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\bin\Debug\Compiler4CMinus2.exe.config
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\bin\Debug\Compiler4CMinus2.exe
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\bin\Debug\Compiler4CMinus2.pdb
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\obj\Debug\Compiler4CMinus2.csprojResolveAssemblyReference.cache
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\obj\Debug\Compiler4CMinus2.exe
+E:\Software\Visual Studio Projects\Compiler4CMinus\Compiler4CMinus2\obj\Debug\Compiler4CMinus2.pdb
